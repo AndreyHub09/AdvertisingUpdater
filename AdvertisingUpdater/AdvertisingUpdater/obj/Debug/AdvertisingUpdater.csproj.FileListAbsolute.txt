@@ -1,0 +1,16 @@
+C:\Projects\AdvertisingUpdater\AdvertisingUpdater\AdvertisingUpdater\bin\Debug\AdvertisingUpdater.exe.config
+C:\Projects\AdvertisingUpdater\AdvertisingUpdater\AdvertisingUpdater\bin\Debug\AdvertisingUpdater.exe
+C:\Projects\AdvertisingUpdater\AdvertisingUpdater\AdvertisingUpdater\bin\Debug\AdvertisingUpdater.pdb
+C:\Projects\AdvertisingUpdater\AdvertisingUpdater\AdvertisingUpdater\obj\Debug\AdvertisingUpdater.csproj.AssemblyReference.cache
+C:\Projects\AdvertisingUpdater\AdvertisingUpdater\AdvertisingUpdater\obj\Debug\AdvertisingUpdater.csproj.SuggestedBindingRedirects.cache
+C:\Projects\AdvertisingUpdater\AdvertisingUpdater\AdvertisingUpdater\obj\Debug\MainWindow.g.cs
+C:\Projects\AdvertisingUpdater\AdvertisingUpdater\AdvertisingUpdater\obj\Debug\App.g.cs
+C:\Projects\AdvertisingUpdater\AdvertisingUpdater\AdvertisingUpdater\obj\Debug\AdvertisingUpdater_MarkupCompile.cache
+C:\Projects\AdvertisingUpdater\AdvertisingUpdater\AdvertisingUpdater\obj\Debug\AdvertisingUpdater_MarkupCompile.lref
+C:\Projects\AdvertisingUpdater\AdvertisingUpdater\AdvertisingUpdater\obj\Debug\MainWindow.baml
+C:\Projects\AdvertisingUpdater\AdvertisingUpdater\AdvertisingUpdater\obj\Debug\AdvertisingUpdater.g.resources
+C:\Projects\AdvertisingUpdater\AdvertisingUpdater\AdvertisingUpdater\obj\Debug\AdvertisingUpdater.Properties.Resources.resources
+C:\Projects\AdvertisingUpdater\AdvertisingUpdater\AdvertisingUpdater\obj\Debug\AdvertisingUpdater.csproj.GenerateResource.cache
+C:\Projects\AdvertisingUpdater\AdvertisingUpdater\AdvertisingUpdater\obj\Debug\AdvertisingUpdater.csproj.CoreCompileInputs.cache
+C:\Projects\AdvertisingUpdater\AdvertisingUpdater\AdvertisingUpdater\obj\Debug\AdvertisingUpdater.exe
+C:\Projects\AdvertisingUpdater\AdvertisingUpdater\AdvertisingUpdater\obj\Debug\AdvertisingUpdater.pdb
